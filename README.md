@@ -745,7 +745,7 @@
             <p>Mahasiswa Teknik Informatika | Frontend Developer</p>
             <p>Selamat datang di laman pribadi saya yang berisi portofolio dan materi kuliah Kapita Selekta.</p>
             <div class="hero-nim">
-                <i class="fas fa-id-card"></i> NIM: 2315061060
+                <i class="fas fa-id-card"></i> NPM: 2315061060
             </div>
         </div>
     </section>
